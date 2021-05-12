@@ -13,7 +13,7 @@ export const data = [
     "Total_Travel_Time": "4 hours 23 minutes",
     "Where_to_stay": "Resort hotels like The Landing Resort or we can rent a vacation mansion with 17 bedrooms and sleeps 38 people.",
     "What_to_do": "Hiking, beaches, going up the gondola to the top of the mountain, ziplining, shopping, casinos, lake/boat activities",
-    "Accommodation_Link": ""
+    "Accommodation_Link": "https://www.vrbo.com/4521906ha?adultsCount=25&noDates=true&unitId=5125531"
   },
   {
     "Location": "Seattle, WA",
@@ -21,11 +21,11 @@ export const data = [
     "Total_Travel_Time": "4 hours 32 minutes",
     "Where_to_stay": "Pan Pacific Seattle, MarQueen",
     "What_to_do": "Space Needle, Starbucks, Pike Place Market, Great Wheel",
-    "Accommodation_Link": "https://www.vrbo.com/4521906ha?adultsCount=25&noDates=true&unitId=5125531"
+    "Accommodation_Link": ""
   },
   {
     "Location": "Portland, OR",
-    "Distance": "From Bakersfield: Drive 1 hour 48 minutes to LAX, then take a 2 hours 28 minutes flight to Seattle.",
+    "Distance": "From Bakersfield: Drive 1 hour 48 minutes to LAX, then take a 2 hours 28 minutes flight to Portland.",
     "Total_Travel_Time": "4 hours 16 minutes",
     "Where_to_stay": "The Benson, Hotel Lucia, The Nines",
     "What_to_do": "Donut tasting,  river cruise, Mt. Hood, Multnomah Falls, Pedalounge",
